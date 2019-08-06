@@ -74,3 +74,8 @@ and new Model in _models folder
 			{ path: 'show/:id', component: ShowDummyComponent }
 		]
 	},`
+  
+  
+  
+  Blog components chosen from 
+  https://github.com/cosmicjs/angular-blog
